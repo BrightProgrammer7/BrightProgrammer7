@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm ABDELILAH</h1>
+<h1 align="center">Hi 👋, I'm ABDELILAH ✨</h1>
 <h3 align="center">A passionate Computer Science & AI Programming enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightprogrammer7&label=Profile%20views&color=0e75b6&style=flat" alt="brightprogrammer7" /> </p>
 
 - 🔭 I’m currently working on **Information & Communication Technologies**
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **POLM (Python, OpenAI, LlamaIndex, MongoDB) AI Stack**
+
+- 👀 I’m interested in **Data Science** and **Artificial intelligence**
 
 - 👯 I’m looking to collaborate on **AI Hackathon**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Retrieval-Augmented Generation**
 
 - 👨‍💻 All of my projects are available at [akhmim-portfolio.vercel.app](akhmim-portfolio.vercel.app)
 
 - 📝 I regularly write articles on [medium.com/@abdelilahk627](medium.com/@abdelilahk627)
 
-- 💬 Ask me about **Javascript Frameworks**
+- 💬 Ask me about **Javascript Frameworks** and **MERN stack development**
 
 - 📫 How to reach me **bright.procoder@gmail.com**
 
