@@ -33,6 +33,11 @@
 <p align="left">
 <a href="https://medium.com/@abdelilahk627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdelilahk627" height="30" width="40" /></a>
 <a href="https://discord.gg/brightcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brightcoder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhmim-abdelilah/" rel="nofollow"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/84931728/129571472-7d420fe7-598b-4fd7-88c1-240fae7c35f5.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&amp;width=24&amp;height=24" style="max-width:100%;" width="30px" align="left"></a>
+<!-- <a href="mailto:bright.procoder@gmail.com"><img alt="Email" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"  style="max-width:100%;" width="30px" align="left"></a> -->
+<a href="http://twitter.com/brightcoder" rel="nofollow"><img alt="Twitter" src="https://user-images.githubusercontent.com/84931728/129571364-ee61cb83-2b23-4c1a-843e-c57e6962ec99.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=twitter&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F83443.png&amp;width=24&amp;height=24" style="max-width:100%;" width="30px" align="left"></a>
+     
+<br><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
