@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightprogrammer7&show_icons=true&locale=en" alt="brightprogrammer7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightprogrammer7&" alt="brightprogrammer7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightprogrammer7&" alt="brightprogrammer7" /></p>
