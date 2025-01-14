@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightprogrammer7&label=Profile%20views&color=0e75b6&style=flat" alt="brightprogrammer7" /> </p>
 
-- 🔭 I’m currently working on **Information & Communication Technologies**
+- 🔭 I’m currently working on **ICT and Embedded Systems**
 
 - 🌱 I’m currently learning **POLM (Python, OpenAI, LlamaIndex, MongoDB) AI Stack**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI Hackathon**
 
-- 🤝 I’m looking for help with **Retrieval-Augmented Generation**
+- 🤝 I’m looking for help with **Retrieval-Augmented Generation & AI Agents**
 
 - 👨‍💻 All of my projects are available at [akhmim-portfolio.vercel.app](akhmim-portfolio.vercel.app)
 
