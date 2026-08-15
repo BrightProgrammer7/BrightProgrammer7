@@ -119,14 +119,29 @@ windows, not a contradiction.
 voice in place. `twitter_username` is already `AGIWithAbdel` and `blog` already points at
 the Netlify portfolio, so the bio is the only stale field.
 
+## GitSkins sections that ARE now in the README
+
+Abdelilah's call 2026-08-16: the `gitskins.com` watermark is acceptable. Four sections
+are in, chosen so that none of them can state something false:
+
+| Section | Why it is safe |
+|---|---|
+| `wordmark` | His name as 3D ASCII. Renders from the GitHub display name; the `label=` param is ignored (byte-identical output with and without it), and the name is already correct. |
+| `highlights` | Driven entirely by our own `items=` string, so the text is ours: AI agents, 8 first places, GreenBee #4 on F6S. |
+| `system-scan` | Decorative ASCII panel — subject, handle, status. |
+| `heatmap` (`style=jet`) | Real contribution data, 3,163 in the last year. |
+
+Still excluded, and the reason is accuracy rather than taste: `projects` (invents
+repositories), `stack` (HTML 95%), `hero` and `about` (both read the stale GitHub bio;
+passing `bio=` suppresses it but hero still ranks HTML first), `stats`/`portrait`
+(redundant against the summary cards and the avatar).
+
 ## Images in the repo
 
-`portrait.jpeg` (640×640, copied from `web-portfolio/public/portrait.jpeg`) is committed
-here on purpose — a real photo of Abdelilah, served from this repo instead of a generated
-avatar or a Netlify URL that could move. The draft references it at
-`raw.githubusercontent.com/BrightProgrammer7/BrightProgrammer7/main/portrait.jpeg`, which
-**404s until the first push** — that is expected, not a broken link. Do not delete this
-file during cleanup.
+None. `portrait.jpeg` was committed and then removed on Abdelilah's call — the README
+uses `github.com/BrightProgrammer7.png?size=240`, his actual GitHub avatar. That is
+strictly better: it needs no file in the repo, never 404s before a push, and tracks
+whatever avatar he sets. The repo carries no image assets now.
 
 ## Where the draft's facts came from
 
@@ -277,8 +292,9 @@ thing public.
 ## To finish
 
 1. Get answers to the three open questions, patch `README.draft.md`.
-2. `mv README.draft.md README.md`, delete `HANDOFF.md` and `.gitskins-slide1.jpg`.
-   **Keep `portrait.jpeg`** — the README serves it.
+2. ~~`mv README.draft.md README.md`~~ — done. The rewrite **is** `README.md` on
+   `feat/profile-readme-rewrite`; there is no draft file any more. Still to delete before
+   merge: `HANDOFF.md` and `.gitskins-slide1.jpg`.
 3. Commit on a branch, PR into `main`. Do not push to `main` directly without asking.
 4. Verify at the terminal surface: load https://github.com/BrightProgrammer7 and confirm
    the camo URLs return 200, not 404. A green `git push` proves nothing about rendering.
