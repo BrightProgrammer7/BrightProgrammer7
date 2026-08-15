@@ -102,7 +102,7 @@ shipped AI systems, architecture through deployment.
 
 <p align="center">
   <a href="https://abdelilah-akhmim.netlify.app">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,flutter,java,go,react,nextjs,angular,spring,flask,fastapi,mongodb,postgres,gcp,aws,docker,firebase,threejs&perline=10" alt="stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,flutter,java,go,react,nextjs,angular,spring,flask,fastapi,mongodb,postgres,gcp,aws,docker,firebase,nodejs,tensorflow,pytorch,opencv,threejs,git,linux&perline=10" alt="stack" />
   </a>
 </p>
 
