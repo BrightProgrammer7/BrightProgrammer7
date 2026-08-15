@@ -1,55 +1,162 @@
-<h1 align="center">Hi 👋, I'm ABDELILAH ✨</h1>
-<h3 align="center">A passionate Computer Science & AI Programming enthusiast </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightprogrammer7&label=Profile%20views&color=0e75b6&style=flat" alt="brightprogrammer7" /> </p>
-
-- 🔭 I’m currently working on **ICT and Embedded Systems**
-
-- 🌱 I’m currently learning **POLM (Python, OpenAI, LlamaIndex, MongoDB) AI Stack**
-
-- 👀 I’m interested in **Data Science** and **Artificial intelligence**
-
-- 👯 I’m looking to collaborate on **AI Hackathon**
-
-- 🤝 I’m looking for help with **Retrieval-Augmented Generation & AI Agents**
-
-- 👨‍💻 All of my projects are available at [akhmim-portfolio.vercel.app](akhmim-portfolio.vercel.app)
-
-- 📝 I regularly write articles on [medium.com/@abdelilahk627](medium.com/@abdelilahk627)
-
-- 💬 Ask me about **Javascript Frameworks** and **MERN stack development**
-
-- 📫 How to reach me **bright.procoder@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/akhmim-abdelilah](linkedin.com/in/akhmim-abdelilah)
-
-- ⚡ Fun fact **Just Code & You'll be Good!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@abdelilahk627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdelilahk627" height="30" width="40" /></a>
-<a href="https://discord.gg/brightcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brightcoder" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akhmim-abdelilah/" rel="nofollow"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/84931728/129571472-7d420fe7-598b-4fd7-88c1-240fae7c35f5.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&amp;width=24&amp;height=24" style="max-width:100%;" width="30px" align="left"></a>
-<!-- <a href="mailto:bright.procoder@gmail.com"><img alt="Email" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"  style="max-width:100%;" width="30px" align="left"></a> -->
-<a href="http://twitter.com/brightcoder" rel="nofollow"><img alt="Twitter" src="https://user-images.githubusercontent.com/84931728/129571364-ee61cb83-2b23-4c1a-843e-c57e6962ec99.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=twitter&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F83443.png&amp;width=24&amp;height=24" style="max-width:100%;" width="30px" align="left"></a>
-     
-<br><br>
+<p align="center">
+  <img src="https://github.com/BrightProgrammer7.png?size=240" width="120" alt="Abdelilah Akhmim" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=BrightProgrammer7&theme=aurora" width="100%" alt="Abdelilah Akhmim" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BrightCoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BrightCoffee" /></a><a href="https://ko-fi.com/ BrightKofi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" BrightKofi" /></a></p>
+<h1 align="center">Abdelilah Akhmim</h1>
 
-<br><br>
+<p align="center">
+  <b>Co-founder &amp; CTO at <a href="https://jabb.cx">JABB</a></b>
+  &nbsp;·&nbsp;
+  Casablanca, Morocco 🇲🇦
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightprogrammer7&show_icons=true&locale=en&layout=compact" alt="brightprogrammer7" /></p>
+<p align="center">
+  <a href="https://abdelilah-akhmim.netlify.app"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akhmim-abdelilah/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AGIWithAbdel">X</a>
+  &nbsp;·&nbsp;
+  <a href="#-selected-work">Projects</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightprogrammer7&show_icons=true&locale=en" alt="brightprogrammer7" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/1st_place-%C3%978-2ea44f?style=flat-square" alt="8 first places" />
+  <img src="https://img.shields.io/badge/represented_Morocco_in_Dubai-%C3%972-0e75b6?style=flat-square" alt="twice in Dubai" />
+  <img src="https://img.shields.io/badge/%234_AI_startup_worldwide-F6S-orange?style=flat-square" alt="#4 on F6S" />
+  <img src="https://komarev.com/ghpvc/?username=BrightProgrammer7&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightprogrammer7&" alt="brightprogrammer7" /></p>
+## AI systems that turn field data into decisions
+
+I build AI agent systems that turn scattered field data into decisions companies can act
+on — customer and employee experience at JABB, and before that industrial safety,
+environmental sensing and LLM security. State engineer in AI and computer science,
+ENSA El Jadida.
+
+Fourteen competition placings in two years, eight of them first place, twice sent to
+represent Morocco in Dubai.
+
+**Now** — Co-founder & CTO at JABB: CX and EX intelligence, the consumer app, the client
+dashboard, and the survey-dispatch model underneath both. Flutter, Flask, MongoDB, GCP,
+Gemini. Alongside it, GenAI Consultant at AI Startup Studio, taking business problems to
+shipped AI systems, architecture through deployment.
+
+## 🚀 Selected work
+
+| Project | | What it is |
+|---|---|---|
+| [**H.A.S.S.A.N.**](https://hassna.vercel.app) | 2025 | Voice storefront for blind and low-vision shoppers. Voice-auth sign-in, then browsing, checkout and delivery all by speech. |
+| [**LLMGuardian**](https://llm-guardian.surge.sh) | 2024 | Security assessment suite for teams shipping LLM features — a battery of checks, reported as what failed, not one number. |
+| [**GreenBee**](https://green-bee.onrender.com) | 2024 | AIoT beekeeping platform. In-hive sensors plus models reading what the readings mean for colony health. ~150,000 MAD in grants. |
+| [**Agenix-Eye**](https://agenix-bot.surge.sh) | 2025 | Multi-agent system for industrial safety. YOLO detects on the floor, a RAG layer supplies the site's own safety context, LangChain decides when to raise a spoken alert. |
+| [**AlHakikaNews**](https://alhakikanews.vercel.app) | 2025 | Fake-news detection, LLM + classical ML. 95.3% accuracy over 44,000+ articles. |
+| [**MonuMate**](https://monuquest.surge.sh) | 2025 | AI tourist companion for Marrakech. NFC, QR and image recognition open a monument's story; RAG on a fine-tuned Falcon 7B handles follow-ups. |
+| [**IAllo**](https://iallo.surge.sh) | 2025 | AI call-bot over WhatsApp and phone. Twilio Voice Media Streams + OpenAI Realtime, bridging caller, human agent and backend in one live conversation. |
+| [**Ni'ma**](https://niaama.surge.sh) | 2024 | Forest fire and illegal-activity detection. ESP-32 over LoRa, cross-checked against satellite imagery. |
+
+<p align="center">
+  <a href="https://abdelilah-akhmim.netlify.app"><b>See the full portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://jabb.cx">Visit jabb.cx</a>
+</p>
+
+## 🏆 Recognition
+
+- 8× first place, national competitions
+- 2× represented Morocco in Dubai — GITEX Global and Expand North Star
+- GreenBee ranked **#4 AI startup worldwide** on F6S, out of 2M+ listed
+- AfriCHI 2025 Design Competition finalist, pitched in Egypt
+- Winner: Arab Cybersecurity Challenge (MA qualifier), Arab FinTech Challenge (MA qualifier),
+  FINNOVATE'25, Nexus Hackathon, Capgemini Techathon
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=BrightProgrammer7&theme=aurora&items=AI%20agents::Field%20data%20into%20decisions%20companies%20act%20on|Competitions::8%20first%20places%2C%20twice%20to%20Dubai|GreenBee::%234%20AI%20startup%20worldwide%20on%20F6S" width="100%" alt="highlights" />
+</p>
+
+<details>
+  <summary><b>Before JABB</b></summary>
+
+<br />
+
+| | |
+|---|---|
+| **Orange** | Platform and governance layer for humans and AI agents collaborating across enterprise workflows. |
+| **Sofrecom Maroc** | HERMIONE to microservices — Spring Boot, Angular, CI quality gates. Converted to a full-time offer. |
+| **Capgemini** | SysML.AI — UML and SysML from plain language, Gemma-7B fine-tuned on 10k+ PlantUML/Mermaid samples. |
+| **Zenika** | Co-lunch network app on GCP — Cloud Run, Firestore, React/TS, Spring Boot. |
+| **JESA** | JESA Digital Estimator, an Electron tool automating engineering-hour estimation. |
+| **3D Smart Factory** | MeshSegNet for 3D dental scan segmentation, served over FastAPI on AWS Lambda. |
+
+</details>
+
+## ⚙️ Engineering signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=BrightProgrammer7&theme=aurora" width="100%" alt="profile scan" />
+</p>
+
+<p align="center">
+  <a href="https://abdelilah-akhmim.netlify.app">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,flutter,java,go,react,nextjs,angular,spring,flask,fastapi,mongodb,postgres,gcp,aws,docker,firebase,threejs&perline=10" alt="stack" />
+  </a>
+</p>
+
+<p align="center">
+  LangChain · RAG · MCP · agent orchestration · ESP-32 / LoRa · Twilio · OpenAI Realtime
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=BrightProgrammer7&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="contribution streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrightProgrammer7&theme=github" alt="repos per language" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrightProgrammer7&theme=github" alt="most committed language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrightProgrammer7&theme=github&utcOffset=1" alt="when I commit" />
+</p>
+
+## 📈 A profile that moves
+
+Most of what I ship now is in private repos, so the graph below undersells it.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=BrightProgrammer7&theme=aurora&style=jet" width="100%" alt="contribution activity, jet" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BrightProgrammer7&theme=github-light&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrightProgrammer7&theme=github-compact&hide_border=true&area=true" width="100%" alt="contribution activity" />
+  </picture>
+</p>
+
+## 🤝 Open to
+
+Consulting on AI systems — architecture through deployment — and hackathon teams.
+Happiest talking about agent orchestration, RAG that survives real data, and getting LLM
+features safe enough to ship.
+
+<p align="center">
+  <a href="https://abdelilah-akhmim.netlify.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://abdelilah-akhmim.netlify.app/writing">Writing</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akhmim-abdelilah/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AGIWithAbdel">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/abd_elilah_1">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://medium.com/@abdelilahk627">Medium</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:akhmim.abdelilah@gmail.com">akhmim.abdelilah@gmail.com</a>
+</p>
+
+<p align="center">
+  <sub>Built in public from Casablanca.</sub>
+</p>
