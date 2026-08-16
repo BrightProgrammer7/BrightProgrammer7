@@ -41,10 +41,13 @@ ENSA El Jadida.
 Fourteen competition placings in two years, eight of them first place, twice sent to
 represent Morocco in Dubai.
 
-**Now** — Co-founder & CTO at JABB: CX and EX intelligence, the consumer app, the client
-dashboard, and the survey-dispatch model underneath both. Flutter, Flask, MongoDB, GCP,
-Gemini. Alongside it, GenAI Consultant at AI Startup Studio, taking business problems to
-shipped AI systems, architecture through deployment.
+**Now** — Co-founder & CTO at JABB. Built the full stack in under three months: the
+consumer app, the voice-of-customer dashboard, and the CX platform underneath both.
+Flutter, Flask, MongoDB, GCP, Gemini. We also built the AI model that dispatches
+targeted surveys and in-field missions to JABBers, so clients get real data from the
+markets they target instead of panel estimates. Alongside it, GenAI Consultant at AI
+Startup Studio, taking business problems to shipped AI systems, architecture through
+deployment.
 
 ## 🚀 Selected work
 
