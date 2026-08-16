@@ -34,9 +34,9 @@
 ## AI systems that turn field data into decisions
 
 I build AI agent systems that turn scattered field data into decisions companies can act
-on — customer and employee experience at JABB, and before that industrial safety,
-environmental sensing and LLM security. State engineer in AI and computer science,
-ENSA El Jadida.
+on. Right now that means LLM and offensive security tooling, customer and employee
+experience at JABB, and before that industrial safety and environmental sensing. State
+engineer in AI and computer science, ENSA El Jadida.
 
 Fourteen competition placings in two years, eight of them first place, twice sent to
 represent Morocco in Dubai.
@@ -48,12 +48,23 @@ markets they target instead of panel estimates. Alongside it, GenAI Consultant a
 Startup Studio, taking business problems to shipped AI systems, architecture through
 deployment.
 
+## 🔐 Security work
+
+I build offensive security tooling with AI, not just AI products.
+
+| Project | | What it is |
+|---|---|---|
+| [**Pentasio**](https://pentasio.com) | 2026 | Automated penetration testing platform, private beta. An adaptive agent runs Nmap, Nuclei, Subfinder, FFUF and Nikto across recon, enumeration and exploitation, scores findings by CVSS and writes remediation guidance. Nothing active runs until the target passes DNS, file or meta-tag ownership verification and signs a scoped 90-day authorization. |
+| [**LLMGuardian**](https://llm-guardian.surge.sh) | 2024 | Security assessment suite for teams shipping LLM features. A battery of checks, reported as what failed rather than one number. Won the Morocco national qualifier of the Arab Cybersecurity Challenge and went to Expand North Star, Dubai. |
+
+Currently focused on agent security: scope enforcement and authorization boundaries for
+agents that execute real actions against real infrastructure.
+
 ## 🚀 Selected work
 
 | Project | | What it is |
 |---|---|---|
 | [**H.A.S.S.A.N.**](https://hassna.vercel.app) | 2025 | Voice storefront for blind and low-vision shoppers. Voice-auth sign-in, then browsing, checkout and delivery all by speech. |
-| [**LLMGuardian**](https://llm-guardian.surge.sh) | 2024 | Security assessment suite for teams shipping LLM features — a battery of checks, reported as what failed, not one number. |
 | [**GreenBee**](https://green-bee.onrender.com) | 2024 | AIoT beekeeping platform. In-hive sensors plus models reading what the readings mean for colony health. ~150,000 MAD in grants. |
 | [**Agenix-Eye**](https://agenix-bot.surge.sh) | 2025 | Multi-agent system for industrial safety. YOLO detects on the floor, a RAG layer supplies the site's own safety context, LangChain decides when to raise a spoken alert. |
 | [**AlHakikaNews**](https://alhakikanews.vercel.app) | 2025 | Fake-news detection, LLM + classical ML. 95.3% accuracy over 44,000+ articles. |
