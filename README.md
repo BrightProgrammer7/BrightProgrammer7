@@ -36,7 +36,7 @@
 I build AI agent systems that turn scattered field data into decisions companies can act
 on. Right now that means LLM and offensive security tooling, customer and employee
 experience at JABB, and before that industrial safety and environmental sensing. State
-engineer in AI and computer science, ENSA El Jadida.
+Engineer in Computer Science & Embedded Systems, ENSAJ.
 
 Fourteen competition placings in two years, eight of them first place, twice sent to
 represent Morocco in Dubai.
@@ -99,7 +99,7 @@ agents that execute real actions against real infrastructure.
 | | |
 |---|---|
 | **Orange** | Platform and governance layer for humans and AI agents collaborating across enterprise workflows. |
-| **Sofrecom Maroc** | HERMIONE to microservices — Spring Boot, Angular, CI quality gates. Converted to a full-time offer. |
+| **Sofrecom** | HERMIONE to microservices — Spring Boot, Angular, CI quality gates. Converted to a full-time offer. |
 | **Capgemini** | SysML.AI — UML and SysML from plain language, Gemma-7B fine-tuned on 10k+ PlantUML/Mermaid samples. |
 | **Zenika** | Co-lunch network app on GCP — Cloud Run, Firestore, React/TS, Spring Boot. |
 | **JESA** | JESA Digital Estimator, an Electron tool automating engineering-hour estimation. |
